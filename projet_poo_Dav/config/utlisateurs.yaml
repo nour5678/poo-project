@@ -1,0 +1,5 @@
+#Stockage des usernames et des password
+credential :
+  usernames :
+  passwords:
+  
